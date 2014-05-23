@@ -324,7 +324,7 @@ echo
 echo
 case "$go" in
         * )
-                        doAll ;;
+		doAll ;;
 esac
 
 exit 0
